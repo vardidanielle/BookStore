@@ -1,1 +1,1 @@
-# Hello, this application is a Book store Runner. the application receives orders from many different customers and delivers to them the Books which they have ordered if avaliable. This project consists of C++ code along side Threads for concurrent actions. Enjoy.
+# Hello, this application is a Book store Runner. the application receives orders from many different customers and delivers the Books which they have ordered if avaliable. This project consists of C++ code along side Threads for concurrent actions. Enjoy.
